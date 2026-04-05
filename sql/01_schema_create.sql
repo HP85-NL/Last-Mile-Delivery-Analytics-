@@ -1,10 +1,10 @@
 -- ============================================================
---  SwiftRoute BV — Star Schema DDL
+--  PatelDelivers BV — Star Schema DDL
 --  Module 2: Data Engineering Foundation
 --  Dialect: PostgreSQL (compatible with Redshift / Azure Synapse
 --           with minor type adjustments noted inline)
---  Author : [Your Name]
---  Date   : 2024
+--  Author : Harshil Patel
+--  Date   : 2025
 -- ============================================================
 --
 --  SCHEMA OVERVIEW
@@ -30,8 +30,8 @@
 -- 0. SETUP
 -- ────────────────────────────────────────────────────────────
 
-CREATE SCHEMA IF NOT EXISTS swiftroute;
-SET search_path TO swiftroute;
+CREATE SCHEMA IF NOT EXISTS pateldelivers;
+SET search_path TO pateldelivers;
 
 
 -- ────────────────────────────────────────────────────────────
