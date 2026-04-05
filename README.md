@@ -23,6 +23,7 @@ Patel Delivers needed their first data analyst to answer three questions:
 ---
 
 ## Key Findings
+[View Power BI Dashboard](https://app.powerbi.com/groups/me/reports/34c9a4fc-4a91-4876-8100-2f818d4c1e56/bcb96f4663c2f4b85152?experience=power-bi)
 
 | Finding | Detail |
 |---|---|
