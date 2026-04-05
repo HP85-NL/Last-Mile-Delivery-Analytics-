@@ -1,9 +1,9 @@
 -- ============================================================
---  SwiftRoute BV — KPI Queries
+--  pateldelivers BV — KPI Queries
 --  Module 1: Data Engineering Foundation
 --  File 2 of 3: Analytical SQL for Dashboard & Reporting
 --
---  All queries run against the swiftroute schema.
+--  All queries run against the PatelDelivers schema.
 --  Each query is labelled with the Power BI page it feeds.
 --  Dialect: PostgreSQL 14+
 -- ============================================================
