@@ -1,4 +1,4 @@
-# Patel-Delivers-Analytics — Last-Mile Delivery Analytics Platform
+# Last-Mile Delivery Analytics - Dutch Logistics Platform 
 
 > **1 in 10 parcels fails on first delivery attempt in the Netherlands.**  
 > This project finds exactly where, exactly why, and what three actions recover **€146M in value at industry scale** — built end-to-end with Python, MySQL, SQL, and Power BI.
@@ -13,7 +13,7 @@ Patel Delivers BV is a Dutch last-mile delivery startup operating across **5 cit
 
 **Operational Cost** — Every failed first-attempt delivery means sending a driver back a second time at full cost. At a 10.8% failure rate across 24,923 shipments, the wasted operational spend accumulates fast.
 
-**Carbon Emissions** — 10.7% of every gram of CO₂ SwiftRoute emits produces zero value — burned on failed delivery trips. With EU sustainability reporting obligations tightening in 2026, this is no longer just an environmental metric. It is a financial and regulatory one.
+**Carbon Emissions** — 10.7% of every gram of CO₂ Pateldelivers emits produces zero value — burned on failed delivery trips. With EU sustainability reporting obligations tightening in 2026, this is no longer just an environmental metric. It is a financial and regulatory one.
 
 Patel Delivers needed their first data analyst to answer three questions:
 - **Where** are failures concentrated?
